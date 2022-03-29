@@ -44,3 +44,10 @@ footer {
 .copy {
   font-size: 1rem;
 }
+
+@media (max-width: 1028px) {
+  body {
+    text-align: center;
+    position: relative;
+  }
+}
