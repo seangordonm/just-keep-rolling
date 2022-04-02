@@ -18,23 +18,23 @@ h1 {
   margin: 30px;
   font-family: 'Lobster', cursive;
   text-shadow: 3.5px 0 #FFF;
-  font-size: 5.5rem;
+  font-size: 5rem;
   color: #00B4D8;
 }
 
 p {
-  font-size: 3rem;
+  font-size: 2.5rem;
   color: #00B4D8;
   font-family: 'Indie Flower', cursive;
 }
 
 img {
-  width: 80%;
+  width: 70%;
 }
 
 footer {
-  margin-top: 5%;
-  font-size: 2rem;
+  margin-top: 11%;
+  font-size: 1.5rem;
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
